@@ -1,0 +1,12 @@
+# Ignora o ambiente virtual
+.venv/
+*/.venv/
+
+# Ignora arquivos de sistema do Mac
+.DS_Store
+
+# (Opcional) Descomente as linhas abaixo se NÃO quiser subir 
+# as centenas de imagens e os vídeos pesados para o Git
+# frames/
+# *.MOV
+# *.mp4
